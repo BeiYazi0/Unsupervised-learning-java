@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 三三
+Build-Jdk: 18.0.2.1
+Class-Path: slf4j-simple-1.7.25.jar slf4j-api-1.7.25.jar api-0.20.0.jar 
+ gson-2.10.jar jna-5.12.1.jar commons-compress-1.22.jar pytorch-engine-0
+ .20.0.jar pytorch-model-zoo-0.20.0.jar
+Main-Class: org.example.unsupervised_machine_learning.App
+Created-By: Maven Integration for Eclipse
+

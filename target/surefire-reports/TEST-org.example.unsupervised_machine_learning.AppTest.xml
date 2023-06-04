@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.unsupervised_machine_learning.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\Eclipse_IDE\projects\unsupervised_machine_learning\target\test-classes;E:\Eclipse_IDE\projects\unsupervised_machine_learning\target\classes;E:\maven\Repository\org\slf4j\slf4j-simple\1.7.25\slf4j-simple-1.7.25.jar;E:\maven\Repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;E:\maven\Repository\junit\junit\3.8.1\junit-3.8.1.jar;E:\maven\Repository\ai\djl\api\0.20.0\api-0.20.0.jar;E:\maven\Repository\com\google\code\gson\gson\2.10\gson-2.10.jar;E:\maven\Repository\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;E:\maven\Repository\org\apache\commons\commons-compress\1.22\commons-compress-1.22.jar;E:\maven\Repository\ai\djl\pytorch\pytorch-engine\0.20.0\pytorch-engine-0.20.0.jar;E:\maven\Repository\ai\djl\pytorch\pytorch-model-zoo\0.20.0\pytorch-model-zoo-0.20.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\san\AppData\Local\Temp\surefire11465391861046538115\surefirebooter-20230603155807642_3.jar C:\Users\san\AppData\Local\Temp\surefire11465391861046538115 2023-06-03T15-58-07_472-jvmRun1 surefire-20230603155807642_1tmp surefire_0-20230603155807642_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\Eclipse_IDE\projects\unsupervised_machine_learning\target\test-classes;E:\Eclipse_IDE\projects\unsupervised_machine_learning\target\classes;E:\maven\Repository\org\slf4j\slf4j-simple\1.7.25\slf4j-simple-1.7.25.jar;E:\maven\Repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;E:\maven\Repository\junit\junit\3.8.1\junit-3.8.1.jar;E:\maven\Repository\ai\djl\api\0.20.0\api-0.20.0.jar;E:\maven\Repository\com\google\code\gson\gson\2.10\gson-2.10.jar;E:\maven\Repository\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;E:\maven\Repository\org\apache\commons\commons-compress\1.22\commons-compress-1.22.jar;E:\maven\Repository\ai\djl\pytorch\pytorch-engine\0.20.0\pytorch-engine-0.20.0.jar;E:\maven\Repository\ai\djl\pytorch\pytorch-model-zoo\0.20.0\pytorch-model-zoo-0.20.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\san"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="E:\Eclipse_IDE\projects\unsupervised_machine_learning"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\san\AppData\Local\Temp\surefire11465391861046538115\surefirebooter-20230603155807642_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
+    <property name="user.name" value="三三"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\maven\Repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\san\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.6"/>
+    <property name="user.dir" value="E:\Eclipse_IDE\projects\unsupervised_machine_learning"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-18.0.2.1/bin/server;C:/Program Files/Java/jdk-18.0.2.1/bin;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\MATLAB Runtime\v91\runtime\win64;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Polyspace\R2020b\runtime\win64;C:\Program Files\Polyspace\R2020b\bin;C:\Program Files\Polyspace\R2020b\polyspace\bin;C:\Program Files\MATLAB\MATLAB Runtime\v99\runtime\win64;C:\ti\mmwave_sdk_03_06_00_00-LTS\packages;C:\Program Files (x86)\MATLAB\MATLAB Runtime\v851\runtime\win32;C:\Program Files\Google\Chrome\Application;C:\Program Files\Git\cmd;C:\Users\san\myqqbot\go_cqhttp\ffmpeg-5.1.1-full_build\bin;C:\Users\san\AppData\Local\Programs\Python\Python38\;C:\Users\san\AppData\Local\Programs\Python\Python38\Scripts\;C:\Program Files\SlikSvn\bin;E:\maven\apache-maven-3.9.2\bin;C:\Program Files\Java\jdk-18.0.2.1\bin;C:\Users\san\AppData\Local\Programs\Python\Python38\;C:\Users\san\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\san\anaconda3;C:\Users\san\anaconda3\Library\mingw-w64\bin;C:\Users\san\anaconda3\Library\usr\bin;C:\Users\san\anaconda3\Library\bin;C:\Users\san\anaconda3\Scripts;C:\Users\san\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\altera\13.1\modelsim_ase\win32aloem;C:\altera\15.0\modelsim_ase\win32aloem;C:\MinGW\bin;C:\ti\mmwave_sdk_03_06_00_00-LTS\packages\ti;C:\ti\mmwave_sdk_03_06_00_00-LTS\packages;;C:\Users\san\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.6+9-LTS-190"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="org.example.unsupervised_machine_learning.AppTest" time="0.002"/>
+</testsuite>
